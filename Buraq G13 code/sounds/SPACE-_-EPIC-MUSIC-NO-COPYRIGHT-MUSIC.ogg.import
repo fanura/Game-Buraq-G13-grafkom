@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/SPACE-_-EPIC-MUSIC-NO-COPYRIGHT-MUSIC.ogg-4f51e609bfab2dbf988b610fda82f691.oggstr"
+
+[deps]
+
+source_file="res://sounds/SPACE-_-EPIC-MUSIC-NO-COPYRIGHT-MUSIC.ogg"
+dest_files=[ "res://.import/SPACE-_-EPIC-MUSIC-NO-COPYRIGHT-MUSIC.ogg-4f51e609bfab2dbf988b610fda82f691.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
